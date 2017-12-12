@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gestion du Parc Lille 1</string>
+    <string name="title_activity_add_problem">Ajouter un problème</string>
+
+    <!-- Strings related to activity_add_problem.xml -->
+    <!--string name="prompt_problem_type">Type de problème</string-->
+    <string name="prompt_problem_type">Type</string>
+    <string name="prompt_problem_coordinate">Coordonnées</string>
+    <string name="prompt_problem_address">Adresse</string>
+    <string name="prompt_problem_description">Description du problème</string>
+    <string name="action_add">Ajouter</string>
+    <string name="action_delete">Supprimer</string>
+    <string name="action_location">Localiser</string>
+</resources>
